@@ -127,12 +127,14 @@ header {
 /* Firechat Demo
 -------------------------------------------------- */
 #firechat-container {
+  margin-top: 10%;
   height: 475px;
   max-width: 325px;
   padding: 10px;
   border: 1px solid #ccc;
   background-color: #fff;
-  margin: auto auto;
+  margin-right: auto;
+  margin-left: auto;
   text-align: center;
   -webkit-border-radius: 4px;
      -moz-border-radius: 4px;
