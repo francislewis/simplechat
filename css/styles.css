@@ -42,7 +42,7 @@ header {
 }
 
 .header-title {
-  background-color: #d7690d;
+  background-color: #d7690d; /* Top colour */
 }
 
 .header-content {
